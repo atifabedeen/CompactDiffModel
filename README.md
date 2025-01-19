@@ -51,12 +51,6 @@ Ensure you have the following installed:
    cd CompactDiffModel
    ```
 
-3. Install the required packages:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ### Training and Fine-Tuning
 
 The repository provides scripts for training and fine-tuning the diffusion model using the aforementioned compression techniques. Detailed instructions and configurations are available in the `LiteDiffusion Report.pdf`. It is recommended to review this report to understand the experimental setup and reproduce the results.
