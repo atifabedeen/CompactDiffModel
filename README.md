@@ -1,6 +1,6 @@
 # CompactDiffModel
 
-**For more information, please read the paper (PDF is in the GitHub repository).**
+**For more information and details regarding experimentation design and results, please check out the paper (PDF is in the GitHub repository).**
 
 CompactDiffModel is an implementation of a compact diffusion model employing various compression techniques, including pruning, quantization, low-rank adaptation, and knowledge distillation. The model is trained and fine-tuned on the CIFAR-10 dataset to achieve efficient performance without significant loss in image generation quality.
 
@@ -74,10 +74,6 @@ For a comprehensive analysis of the results, including quantitative metrics and 
 ## Acknowledgements
 
 This project builds upon foundational work in diffusion models and model compression techniques. We acknowledge the contributions of the research community in these areas, which have been instrumental in the development of CompactDiffModel.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
 
